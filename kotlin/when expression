@@ -1,0 +1,13 @@
+fun main() {
+    val value = 8
+ 
+    when(value){
+        6 -> println("valuenya 6")
+        7 -> println("valuenya 7")
+        8 -> println("valuenya 8")
+    }
+}
+ 
+/*
+   output: valuenya 8
+*/
