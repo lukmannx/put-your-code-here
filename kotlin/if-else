@@ -1,0 +1,9 @@
+var nilai = 80
+
+fun main(){
+  if(nilai >= 80){
+    print("kamu lulus")
+}else{
+    print("cemas kau dek")
+}  
+}
